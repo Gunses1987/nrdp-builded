@@ -29,3 +29,7 @@ $(document).ready(function(){
 		}
 	});
 });
+
+
+
+window.location.href="https://service.avon.ua/georgia-become-a-rep/"
